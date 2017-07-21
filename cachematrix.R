@@ -19,7 +19,7 @@ makeCacheMatrix<-function(x = numeric()){
   }
 
 
-## Write a short comment describing this function
+## This program of mine finds the inverse of the matrix from cache and if not solved it calculates it.
 
 
 cacheSolve<-function(x,...){
